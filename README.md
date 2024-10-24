@@ -8,3 +8,5 @@ This API allows you to generate tokens from provided text using FastAPI.
 1. Install the necessary dependencies:
    ```bash
    pip install fastapi[all] uvicorn
+
+
